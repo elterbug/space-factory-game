@@ -1,5 +1,5 @@
-# Space factory thing
-A game about making a factory in space. Idk what to name it tho.
+# Space craft
+A game about making a factory in space.
 
 The project files are in the folder projects/
 
